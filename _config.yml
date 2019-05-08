@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Link Notes
-description: The codex of Link
+title: Network Notes
+description: The blog of Network
 # baseurl: "/athena" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 baseurl: ""
@@ -24,7 +24,7 @@ github_username:
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
 social_link: twitter
-social_username: linkneuro
+social_username: networkfund
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
